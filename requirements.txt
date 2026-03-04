@@ -1,0 +1,7 @@
+# MATLAB Version
+MATLAB R2020b or later (Required for App Designer UI components)
+
+# Required Toolboxes
+Image Processing Toolbox (for imresize, imread, imwrite)
+Audio Toolbox (for audioread, audiowrite)
+Computer Vision Toolbox (for VideoReader, VideoWriter, and frame processing)
